@@ -1,5 +1,5 @@
 - Hi, I’m Zhen Zhang.
-- I am a Ph.D. student at Renmin University of China.
+- I’m a Ph.D. student at Renmin University of China, and I have just started my doctoral research career.
 - My research area is theoretical computer science.
 - I am currently researching multi-item auctions.
 
