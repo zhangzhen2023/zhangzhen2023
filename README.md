@@ -1,5 +1,5 @@
 - Hi, I’m @zhangzhen2023
-- I am a Ph.D. student at Renmin University of China, and my research area is theoretical computer science and commodity auctions.
+- I am a Ph.D. student at Renmin University of China, and my research area is theoretical computer science.
 - I am currently researching multi-item auctions.
 
 <!---
