@@ -1,4 +1,4 @@
-- Hi, I’m zhangzhen.
+- Hi, I’m Zhen Zhang.
 - I am a Ph.D. student at Renmin University of China.
 - My research area is theoretical computer science.
 - I am currently researching multi-item auctions.
